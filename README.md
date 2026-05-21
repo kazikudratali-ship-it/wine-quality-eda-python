@@ -1,1 +1,1 @@
-# wine-quality-eda-python
+# Wine Quality Exploratory Data Analysis
